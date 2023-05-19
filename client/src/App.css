@@ -24,8 +24,25 @@
 
 .backgroung-bottom {
   width: 97.5%;
-  background-color: red;
+  background-color: sandybrown;
   height: 100px;
   margin-left: auto;
   margin-right: auto;
 }
+
+.backgroung-middle {
+    width: 97.5%;
+  background-color: green;
+  height: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.backgroung-top {
+  width: 97.5%;
+  background-color: lightblue;
+  height: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
